@@ -1,0 +1,11 @@
+/Application/*
+/Mock/*
+/Resources/*
+/Extension/*
+/Constants/*
+/Model/*
+/DBService/*
+/AppRouter/*
+/CustomLayout/*
+/ReusableViews/*
+/Module/*

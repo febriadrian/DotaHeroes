@@ -1,0 +1,29 @@
+[
+    {
+        "idx": 1,
+        "namex": "npc_dota_hero_antimage",
+        "localized_namex": "Anti-Mage",
+        "primary_attrx": "agi",
+        "attack_typex": "Melee",
+        "rolesx": [
+            "Carry",
+            "Escape",
+            "Nuker"
+        ],
+        "imgx": "/apps/dota2/images/heroes/antimage_full.png?",
+        "base_healthx": 200,
+        "base_health_regenx": 0.25,
+        "base_manax": 75,
+        "base_mana_regenx": 0,
+        "base_armorx": -1,
+        "base_mrx": 25,
+        "base_attack_minx": 29,
+        "base_attack_maxx": 33,
+        "base_strx": 23,
+        "base_agix": 24,
+        "base_intx": 12,
+        "attack_rangex": 150,
+        "attack_ratex": 1.4,
+        "move_speedx": 310
+    }
+]
