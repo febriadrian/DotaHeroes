@@ -1,7 +1,7 @@
 # About
 
-Author: Febri Adrian
-Email: febriadrian.dev@gmail.com
+- Author: Febri Adrian
+- Email: febriadrian.dev@gmail.com
 
 # How To Run Unit Test
 
